@@ -1,0 +1,14 @@
+CRITICAL - 2025-04-21 15:33:13 --> ErrorException: Undefined array key "booking_id"
+[Method: GET, Route: payments/create]
+in APPPATH\Views\payments\create.php on line 71.
+ 1 APPPATH\Views\payments\create.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "booking_id"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php', 71)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('payments/create', [], true)
+ 5 APPPATH\Controllers\Payments.php(49): view('payments/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payments->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

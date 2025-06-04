@@ -1,0 +1,214 @@
+CRITICAL - 2025-04-16 02:39:05 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: bookings]
+in APPPATH\Views\bookings\index.php on line 97.
+ 1 APPPATH\Views\bookings\index.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php', 97)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('bookings/index', [], true)
+ 5 APPPATH\Controllers\Bookings.php(16): view('bookings/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Bookings->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bookings))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 02:39:32 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: payments/create]
+in APPPATH\Views\payments\create.php on line 56.
+ 1 APPPATH\Views\payments\create.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('payments/create', [], true)
+ 5 APPPATH\Controllers\Payments.php(29): view('payments/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payments->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 02:39:38 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: payments/create]
+in APPPATH\Views\payments\create.php on line 56.
+ 1 APPPATH\Views\payments\create.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('payments/create', [], true)
+ 5 APPPATH\Controllers\Payments.php(29): view('payments/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payments->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 02:39:49 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: payments/create]
+in APPPATH\Views\payments\create.php on line 56.
+ 1 APPPATH\Views\payments\create.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('payments/create', [], true)
+ 5 APPPATH\Controllers\Payments.php(29): view('payments/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payments->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 02:40:00 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: payments/create]
+in APPPATH\Views\payments\create.php on line 56.
+ 1 APPPATH\Views\payments\create.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('payments/create', [], true)
+ 5 APPPATH\Controllers\Payments.php(29): view('payments/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payments->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 02:40:05 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: bookings]
+in APPPATH\Views\bookings\index.php on line 97.
+ 1 APPPATH\Views\bookings\index.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php', 97)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('bookings/index', [], true)
+ 5 APPPATH\Controllers\Bookings.php(16): view('bookings/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Bookings->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bookings))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 02:43:07 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: bookings]
+in APPPATH\Views\bookings\index.php on line 97.
+ 1 APPPATH\Views\bookings\index.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php', 97)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('bookings/index', [], true)
+ 5 APPPATH\Controllers\Bookings.php(16): view('bookings/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Bookings->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bookings))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 02:44:10 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: bookings]
+in APPPATH\Views\bookings\index.php on line 97.
+ 1 APPPATH\Views\bookings\index.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php', 97)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('bookings/index', [], true)
+ 5 APPPATH\Controllers\Bookings.php(16): view('bookings/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Bookings->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bookings))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 02:44:59 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: bookings]
+in APPPATH\Views\bookings\index.php on line 97.
+ 1 APPPATH\Views\bookings\index.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php', 97)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\bookings\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('bookings/index', [], true)
+ 5 APPPATH\Controllers\Bookings.php(16): view('bookings/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Bookings->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bookings))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 03:05:58 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: payments/create]
+in APPPATH\Views\payments\create.php on line 56.
+ 1 APPPATH\Views\payments\create.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('payments/create', [], true)
+ 5 APPPATH\Controllers\Payments.php(29): view('payments/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payments->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 03:19:55 --> ParseError: syntax error, unexpected namespaced name "App\Controllers"
+[Method: GET, Route: payments]
+in APPPATH\Controllers\Payments.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\hotel-booking\\app\\Controllers\\Payments.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Payments')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Payments')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Payments', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 03:19:56 --> ParseError: syntax error, unexpected namespaced name "App\Controllers"
+[Method: GET, Route: payments]
+in APPPATH\Controllers\Payments.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\hotel-booking\\app\\Controllers\\Payments.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Payments')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Payments')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Payments', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 03:19:56 --> ParseError: syntax error, unexpected namespaced name "App\Controllers"
+[Method: GET, Route: payments]
+in APPPATH\Controllers\Payments.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\hotel-booking\\app\\Controllers\\Payments.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Payments')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Payments')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Payments', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 03:20:00 --> ParseError: syntax error, unexpected namespaced name "App\Controllers"
+[Method: GET, Route: payments]
+in APPPATH\Controllers\Payments.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\hotel-booking\\app\\Controllers\\Payments.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Payments')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Payments')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Payments', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 03:20:09 --> ParseError: syntax error, unexpected namespaced name "App\Controllers"
+[Method: GET, Route: payments]
+in APPPATH\Controllers\Payments.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\hotel-booking\\app\\Controllers\\Payments.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Payments')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Payments')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Payments', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-16 03:21:51 --> ErrorException: Undefined array key "guest_name"
+[Method: GET, Route: payments/create]
+in APPPATH\Views\payments\create.php on line 56.
+ 1 APPPATH\Views\payments\create.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "guest_name"', 'C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\hotel-booking\\app\\Views\\payments\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('payments/create', [], true)
+ 5 APPPATH\Controllers\Payments.php(29): view('payments/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payments->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
